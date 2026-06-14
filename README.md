@@ -1,16 +1,80 @@
-# React + Vite
+# 🌟 Aastha Choudhary - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!
 
-Currently, two official plugins are available:
+This portfolio showcases my journey as a B.Tech Mathematics & Computing student at NIT Hamirpur, highlighting my projects, technical skills, achievements, and passion for Machine Learning and Web Development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Website
 
-## React Compiler
+[View Portfolio](https://vercel.com/aastha-choudhary-s-projects/portfolio)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👩‍💻 About Me
 
-## Expanding the ESLint configuration
+I am a third-year Mathematics & Computing undergraduate at NIT Hamirpur with a strong interest in:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Machine Learning & Data Science
+* Frontend Development
+* Data Structures & Algorithms
+* Problem Solving
+* Open Source Learning
+
+I enjoy building practical solutions using technology and continuously improving my skills through projects, coding challenges, and competitive programming.
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* JavaScript
+* HTML5
+* CSS3
+
+### Programming Languages
+
+* C++
+* Python
+* JavaScript
+
+### Data Science & Machine Learning
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Jupyter Notebook
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Kaggle
+
+## 📂 Featured Sections
+
+* Home
+* About Me
+* Skills
+* Projects
+* Achievements
+* Contact
+
+## 🎯 Goals
+
+* Build impactful Machine Learning projects
+* Strengthen full-stack development skills
+* Contribute to open-source communities
+* Continuously learn and grow as a software engineer
+
+## 📫 Connect With Me
+
+* GitHub: Your GitHub Profile
+* LinkedIn: Your LinkedIn Profile
+* Email: Your Email
+
+---
+
+If you find this portfolio interesting, feel free to connect with me and explore my projects.
+
+⭐ Star the repository if you like it!
